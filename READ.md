@@ -2,3 +2,5 @@
 #Crptoprice
 #Crptoprice
 #cryptoprice
+#cryptocurrencyprice
+#Cryptocurrencyprice
